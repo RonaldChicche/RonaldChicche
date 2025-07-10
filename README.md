@@ -2,4 +2,3 @@
 - 👀 I’m interested in Artificial Intelligence, Cloud computing, Internet of Things and Data Engineering
 - 🌱 I’m currently learning Databricks and Apache Airflow 
 - 📫 Feel free to contact me at ronald12chicche@gmail.com
-
